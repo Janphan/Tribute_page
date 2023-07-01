@@ -37,3 +37,9 @@ display:block;
     margin: 0 auto 10px auto;
     max-width: 600px;
   }
+  li {
+    padding: 3px;
+    margin: 3px;
+    text-align: center;
+  }
+  
