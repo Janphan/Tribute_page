@@ -20,8 +20,9 @@
     position: fixed;
     top: 0;
   }
-  #img-div{
-    width:max-content;
+  img {
+max-width: 100%;
+display:block;
   }
   h1 {
     color: #f1be32;
